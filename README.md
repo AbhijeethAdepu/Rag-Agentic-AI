@@ -187,19 +187,35 @@ The main settings are in `src/config.py`.
 ## Screenshots
 
 ### Agentic AI Definition
-![Agentic AI Definition](outputs/agentic-ai-definition.png)
 
-### Agentic Architecture Question
-![Agentic Architecture Question](outputs/agentic-architecture-question.png)
+<img width="959" height="539" alt="agentic-ai-definition" src="https://github.com/user-attachments/assets/1c32f364-48df-43fc-b081-682747d610f0" />
+
+### Agentic Architecture
+
+<img width="958" height="536" alt="agentic-architecture-question" src="https://github.com/user-attachments/assets/ba2f4941-ccbe-4a05-b50c-96288f1a5007" />
 
 ### Industry Use Cases
-![Industry Use Cases](outputs/industry-use-cases.png)
+
+<img width="959" height="532" alt="industry-use-cases" src="https://github.com/user-attachments/assets/25392f37-cbee-4e30-b13c-38fb323c6bee" />
 
 ### Agentic AI and Traditional AI
-![Agentic AI and Traditional AI](outputs/agentic-ai-and-traditional-ai.png)
+
+<img width="958" height="535" alt="agentic-ai-and-traditional-ai" src="https://github.com/user-attachments/assets/ed374a97-fd5f-42e7-8e65-215e4beda097" />
 
 ### Agentic AI Challenges
-![Agentic AI Challenges](outputs/agentic-ai-challenges.png)
+
+<img width="959" height="533" alt="agentic-ai-challenges" src="https://github.com/user-attachments/assets/8a548803-d249-44a8-aef4-03294b092943" />
 
 ### Out-of-Scope Question and Refusal
-![Out-of-Scope Question](outputs/out-of-scope-refusal.png)
+
+<img width="959" height="533" alt="out-of-scope-refusal" src="https://github.com/user-attachments/assets/33f721ba-69ae-4465-b073-3b55622ae89f" />
+
+
+
+
+
+
+
+
+
+ 
